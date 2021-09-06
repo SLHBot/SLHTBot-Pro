@@ -97,11 +97,6 @@
             "required": true,
             "value": "true"
         },
-        "BIO_CP": {
-            "description": "Set true for auto date, time in biography Name.ඔබගේ විස්තරය කාලීනව වෙනස් වීමට (අවශ්‍ය නැතිනම් වෙනස් නොකරන්න )",
-            "required": true,
-            "value": "🎲𝑺̲̅𝒂̲̅𝒏̲̅𝒅̲̅𝒖̲̅𝒔̲̅𝒉̲̅𝒊̲̅ 𝑳̲̅𝒐̲̅𝒉̲̅𝒊̲̅𝒏̲̅𝒊̲̅𝒌̲̅𝒂̲̅🎲"
-        },
         "ASENA_PLUG": {
             "description": "Set your zeks.xyz website API Key => Using  api.zeks.xyz/api",
             "required": true,
