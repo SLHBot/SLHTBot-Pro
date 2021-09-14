@@ -34,6 +34,11 @@
             "required": true,
             "value": "false"
         },
+        "BIO_CP": {
+            "description": "Set true for auto date, time in biography Name.ඔබගේ විස්තරය කාලීනව වෙනස් වීමට (අවශ්‍ය නැතිනම් වෙනස් නොකරන්න )",
+            "required": true,
+            "value": "🎲𝑺̲̅𝒂̲̅𝒏̲̅𝒅̲̅𝒖̲̅𝒔̲̅𝒉̲̅𝒊̲̅ 𝑳̲̅𝒐̲̅𝒉̲̅𝒊̲̅𝒏̲̅𝒊̲̅𝒌̲̅𝒂̲̅🎲"
+        },
         "BOT_NAME": {
             "description": "Photo caption ;ලෝගෝ /පින්තුර පහළ ඇති නම වෙනස් කිරිමට අවශ්‍ය නම් මෙහි ඔබට අවශ්‍ය නම ලියන්න.",
             "required": false,
